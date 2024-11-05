@@ -1,0 +1,2 @@
+This is a change from the edit_sample_file branch.
+This is a conflicting change from the master branch.
